@@ -22,7 +22,6 @@ Source Packages/main/java/day2
 - day2.rndnumberprodcon
 - day2.webscrapprodcon
 
----
 
 *Threads Exercise 3 see:*
 threadExercises --> Threads-3-exercise-code
